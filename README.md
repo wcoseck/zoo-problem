@@ -9,6 +9,7 @@
   </head>
   <body>
     <main>
+
       <!--Indicates the title of the page-->
       <h1>Zoo Animal Guide!</h1>
 
